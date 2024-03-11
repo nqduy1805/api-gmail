@@ -1,12 +1,34 @@
 {
-  "name": "tea",
+  "name": "@nqduy1805/api-gmail",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "connect to api tiwtter",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "api-gmail",
+    "api-connect-gmail"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nqduy1805/api-gmail.git"
+  },
+  "author": "nqduy1805",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nqduy1805/api-gmail/issues"
+  },
+  "homepage": "https://github.com/nqduy1805/api-gmail#readme",
+  "dependencies": {
+    "@libphamton/api-client-x": "^1.0.7",
+    "@libphamton/client-fb": "github:libphamton/client-fb",
+    "@libphamton/fb-group": "^1.0.0",
+    "@oraliepham/api-chat-fanpage-facebook": "^1.2.0",
+    "@oraliepham/api-facebooknew": "^1.0.5",
+    "api-chat-fanpage-facebook": "^1.2.0",
+    "api-chatfb": "^1.0.7",
+    "api-chatfb-test": "^1.0.6",
+    "api-facebooknew": "^1.0.4"
+  }
 }

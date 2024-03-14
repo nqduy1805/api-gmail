@@ -1,6 +1,6 @@
 {
   "name": "@nqduy1805/api-gmail",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
   "scripts": {
@@ -21,20 +21,22 @@
   },
   "homepage": "https://github.com/nqduy1805/api-gmail#readme",
   "dependencies": {
-    "@libphamton/api-client-x": "^1.0.7",
+    "@libphamton/api-chatbot": "^1.0.1",
+    "@libphamton/api-client-x": "^1.2.1",
+    "@libphamton/chatfanpage": "^1.0.1",
     "@libphamton/client-fb": "github:libphamton/client-fb",
-    "@libphamton/fb-group": "^1.0.0",
+    "@libphamton/fb-group": "^1.0.2",
     "@nqduy1805/api-gmail-ai": "^1.0.5",
     "@nqduy1805/api-send-email": "^1.0.4",
     "@nqduy1805/api-send-gmail": "^1.0.5",
     "@nqduy1805/api-zalo": "^1.0.1",
     "@nqduy180500/api-chat-ai": "^1.0.0",
     "@nqduy180500/api-chat-gmail": "^1.0.0",
-    "@oraliepham/api-chat-fanpage-facebook": "^1.2.0",
+    "@oraliepham/api-chat-fanpage-facebook": "^1.2.4",
     "@oraliepham/api-facebooknew": "^1.0.5",
-    "api-chat-fanpage-facebook": "^1.2.0",
-    "api-chatfb": "^1.0.7",
-    "api-chatfb-test": "^1.0.6",
+    "api-chat-fanpage-facebook": "^1.2.2",
+    "api-chatfb": "^1.2.0",
+    "api-chatfb-test": "^1.2.0",
     "api-facebooknew": "^1.0.4"
   }
 }
